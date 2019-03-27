@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Raleway';
+    background: #fefefe;
+}
+
+.divide{
+    height: 1px;
+    background: #ccc;
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+}
+
+p{
+    color: gray;
+}
+
+a{
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 20px;
+    color: slateblue;
+}
+
+a:hover{
+    color: darkblue;
+}
