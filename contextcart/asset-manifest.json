@@ -1,0 +1,13 @@
+{
+  "main.css": "/contextcart/static/css/main.8dfe3e80.chunk.css",
+  "main.js": "/contextcart/static/js/main.a47d1783.chunk.js",
+  "main.js.map": "/contextcart/static/js/main.a47d1783.chunk.js.map",
+  "runtime~main.js": "/contextcart/static/js/runtime~main.da9ece02.js",
+  "runtime~main.js.map": "/contextcart/static/js/runtime~main.da9ece02.js.map",
+  "static/js/2.a60434ad.chunk.js": "/contextcart/static/js/2.a60434ad.chunk.js",
+  "static/js/2.a60434ad.chunk.js.map": "/contextcart/static/js/2.a60434ad.chunk.js.map",
+  "index.html": "/contextcart/index.html",
+  "precache-manifest.f738945126dda0dde46dfb9f79bca7e5.js": "/contextcart/precache-manifest.f738945126dda0dde46dfb9f79bca7e5.js",
+  "service-worker.js": "/contextcart/service-worker.js",
+  "static/css/main.8dfe3e80.chunk.css.map": "/contextcart/static/css/main.8dfe3e80.chunk.css.map"
+}
